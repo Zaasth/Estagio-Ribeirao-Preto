@@ -1,0 +1,7 @@
+C:\Users\T-GAMER\source\repos\Desafio 5\bin\Debug\Desafio 5.exe.config
+C:\Users\T-GAMER\source\repos\Desafio 5\bin\Debug\Desafio 5.exe
+C:\Users\T-GAMER\source\repos\Desafio 5\bin\Debug\Desafio 5.pdb
+C:\Users\T-GAMER\source\repos\Desafio 5\obj\Debug\Desafio 5.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\Desafio 5\obj\Debug\Desafio 5.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\Desafio 5\obj\Debug\Desafio 5.exe
+C:\Users\T-GAMER\source\repos\Desafio 5\obj\Debug\Desafio 5.pdb
